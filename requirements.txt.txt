@@ -1,0 +1,13 @@
+# Core dependencies for Live Gender Detection App
+opencv-python>=4.8.0
+tensorflow>=2.13.0
+numpy>=1.24.0
+
+# Optional dependencies for enhanced functionality
+pillow>=10.0.0
+matplotlib>=3.7.0
+
+# Development and testing (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
